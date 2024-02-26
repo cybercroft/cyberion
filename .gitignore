@@ -6,8 +6,9 @@ dist/
 .vscode/
 
 # Dotenv
-.env/
-*.env
+.env/dev.env
+.env/prod.env
+.env/db.env
 
 # Secret key file
 .secret_key.txt
